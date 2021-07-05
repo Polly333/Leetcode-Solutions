@@ -76,9 +76,9 @@ ____________________________________________________________
 
 
 ### Leetcode Must Do Problems
-| No. | Questions |
-| --- | --------- |
-|1  | [Two Sum](https://leetcode.com/problems/two-sum) |
+| No. | Questions | Level |
+| --- | --------- | ------|
+|1  | [Two Sum](https://leetcode.com/problems/two-sum) | Easy |
 |2  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |
 |3  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
 |4  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) |
@@ -109,7 +109,7 @@ ____________________________________________________________
 |29  | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) |
 |30  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) |
 |31  | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
-|32  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) |
+|32  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) |Easy|
 |33  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) |
 |34  | [Clone Graph](https://leetcode.com/problems/clone-graph) |
 |35  | [Word Break](https://leetcode.com/problems/word-break) |
