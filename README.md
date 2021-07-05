@@ -151,9 +151,9 @@ ____________________________________________________________
 |71  | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) |
 |72  | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) |
 |73  | [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst) |
-|74  | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) |
-|75  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) |
-|76  | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) |
-|77  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) |
+|74  | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) |Easy|
+|75  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) |Medium|
+|76  | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) |Medium|
+|77  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) |Medium|
 
 List taken from - https://github.com/ombharatiya/FAANG-Coding-Interview-Questions 
