@@ -43,10 +43,6 @@ Answer
    -- while continue in for loop stmt will first update then check the condn.
 
 What is the Time and Space Complexity?
-    - Time Complexity = O(n) + O(n) = O(n), where 'n' is the length of the input string
-        - O(n), set 's' to lowercase
-        - O(n), visit each character once using two pointer
-    - Space Complexity = O(n), where 'n' is the length of the input string
-        - O(n), lowercase form of 's'
+    ???????????////
 
 
