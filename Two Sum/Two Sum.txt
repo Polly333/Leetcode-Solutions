@@ -41,11 +41,7 @@ Answer
     - Return an empty array as no such pair found
 
 What is the Time and Space Complexity?
-    - Time Complexity = O(n), where n is the length of the input array
-        - O(n), visit each index once
-    - Space Complexity = O(n), where n is the length of the input array
-        - O(n), map
-
+    ?///////////
 
 
 
