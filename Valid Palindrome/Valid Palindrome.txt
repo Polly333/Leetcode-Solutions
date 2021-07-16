@@ -2,9 +2,6 @@ Question
     Given a string, determine if it is a palindrome,
     considering only alphanumeric characters and ignoring cases.
 
-    Note: For the purpose of this problem, we define empty
-    string as valid palindrome.
-
     Constraints:
         - s consists only of printable ASCII characters.
 
@@ -28,18 +25,22 @@ Answer
         - i, the left pointer, initially 0
         - j, the right pointer, initially 's.length() - 1'
     - Set 's' to lowercase form
+    - Convert 's' to char array
     - While 'i' is less than 'j'
-        - Retrieve the characters 'c' and 'd' from the two pointers
-        - If 'c' is not alphanumeric
+        - Retrieve the characters 'ch[i]' and 'ch[j]' from the two pointers
+        - If 'ch[i]' is not alphanumeric
             - Increment 'i'
-            - continue to next iteration
-        - If 'd' is not alphanumeric
+            - continue to next iteration, without incrementing j 
+        - If 'ch[j]' is not alphanumeric
             - Decrement 'j'
-            - continue to next iteration
-        - If 'c' is not equal to 'd'
+            - continue to next iteration , without incrementing i as the if condn is false means ch[i] is alphamuneric.
+        - If 'ch[i]' is not equal to 'ch[j]'
             - Return false
         - Increment 'i' and decrement 'j'
     - return true
+    
+   -- for this question while loop will be suitable as it has updating statement at last, so continue statement before it will ignore the updating and continue to next iteration i.e condn checking.
+   -- while continue in for loop stmt will first update then check the condn.
 
 What is the Time and Space Complexity?
     - Time Complexity = O(n) + O(n) = O(n), where 'n' is the length of the input string
